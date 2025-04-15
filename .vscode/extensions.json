@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "nextjs.vscode-nextjs-extension",
+      "nomicfoundation.hardhat-solidity",
+      "rodrigovallades.es7-react-js-snippets"
+    ]
+  }
